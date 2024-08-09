@@ -1,0 +1,45 @@
+body {
+  background-color: #BAD7E9;
+}
+
+#mainNav {
+  height: 80px;
+  background-color: rgb(39, 69, 94);
+}
+
+#supNave {
+  height: 60px;
+  background-color: rgb(95, 134, 167);
+}
+
+#card1 {
+  margin-top: 100px;
+}
+
+.button {
+  border: none;
+  color: rgb(17, 100, 152);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 300px 0;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: #f44336;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(21, 109, 186);
+  font-size: 16;
+}
+
+a:hover {
+  text-decoration: none;
+  color: rgb(10, 49, 82);
+  font-size: 16;
+}

@@ -1,0 +1,108 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f1ef60;
+}
+
+.container {
+    background-color: #e6a415;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input[type="text"],
+input[type="password"] {
+    padding: 10px;
+    border: 1px solid #1786d6;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px;
+    background-color: #28a745;
+    color: #053f91;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+p {
+    margin-top: 20px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+    background-color: #BAD7E9;
+}
+
+#mainNav {
+    height: 80px;
+    background-color: rgb(39, 69, 94);
+}
+
+#supNave {
+    height: 60px;
+    background-color: rgb(95, 134, 167);
+}
+
+#card1 {
+    margin-top: 100px;
+}
+
+.button {
+    border: none;
+    color: rgb(17, 100, 152);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 300px 0;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: #f44336;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(21, 109, 186);
+    font-size: 16;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(10, 49, 82);
+    font-size: 16;
+}
